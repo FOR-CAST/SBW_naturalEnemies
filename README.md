@@ -1,2 +1,1 @@
-# SBW_naturalEnemies
-Spruce budworm mortality by natural enemies module
+SBW_naturalEnemies.md
